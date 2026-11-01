@@ -1,0 +1,27 @@
+﻿# Olist source dataset — do not commit raw CSV files
+data/raw/*.csv
+
+# Local processed data and generated files
+data/processed/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
