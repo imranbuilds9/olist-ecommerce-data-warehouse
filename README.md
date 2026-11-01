@@ -146,3 +146,6 @@ The next development stages include:
 The final objective is to demonstrate practical data engineering skills through a reproducible, documented, and testable data warehouse and ELT pipeline.
 
 This repository is a work in progress. Features and implementation details will be updated as development continues.
+
+# olist-ecommerce-data-warehouse
+Enterprise Data Warehouse and ELT pipeline project using the Olist Brazilian E-Commerce dataset, PostgreSQL, and Python.
